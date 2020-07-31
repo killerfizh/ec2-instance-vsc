@@ -1,0 +1,8 @@
+node_modules
+.ssh
+.cache
+.gnupg
+.npm
+.vscode
+node-v12.18.3
+
